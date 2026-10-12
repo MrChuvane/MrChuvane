@@ -17,7 +17,7 @@ Transformo dados de terreno em evidências e dashboards accionáveis. 6+ anos de
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-📫 mussanem@gmail.com · [LinkedIn](https://linkedin.com/in/mario-mussane)
+📫  [LinkedIn](https://linkedin.com/in/mario-mussane)
 
 <!--
 **MrChuvane/MrChuvane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
